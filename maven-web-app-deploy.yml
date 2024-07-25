@@ -4,7 +4,7 @@ kind: Deployment
 metadata:
  name: mavenwebappdeployment
 spec:
- replicas: 2
+ replicas: 3
  strategy: 
     type: Recreate
  selector: 
@@ -18,7 +18,7 @@ spec:
   spec: 
     containers:
     - name: mavenwebappcontainer
-      image: arunkeerthi3101/sunpro
+      image: pradeepdocker273/devops
       imagePullPolicy: Always
       ports:
       - containerPort: 8080
