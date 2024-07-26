@@ -1,11 +1,11 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Greens - <font></h1>
-<h2> Arun - Senior Trainer for AWS & DevOps1 Annanagarnewbaranch </h2>
+<h1><font color='red'> Welcome to CI/CD PROJECT - <font></h1>
+<h2> THIS IS PRADEEP DEVOPS ENGINEER  </h2>
 
-<a href=" http://www.greenstechnologys.com/contact.php">Click Here To See Greens Training Schedules</a>
+<a href=" https://www.tcs.com/">Click Here To See TCS PORTAL</a>
   
-  <h2> Call Us : + 91 - 99 65 47 60 18 </h2>
+  <h2> Call Us : + 91 - 9940368943</h2>
 
 </body>
 </html>
