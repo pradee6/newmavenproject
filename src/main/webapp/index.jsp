@@ -212,7 +212,7 @@
 <body>
     <div class="profile-card">
         <div class="image" id="profile-img-click">
-            <img class="profile-img" src="WhatsApp Image 2024-07-27 at 22.27.56_1977f09b.jpg">
+            <img class="profile-img" src="WhatsApp Image 2024-07-27 at 22.27.56_1977f09b.jpg  alt="Profile Image">
         </div>
         <div class="text-data">
             <span class="name">E.PRADEEP</span>
